@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Loadshare Networks",
+    "isActive": true,
+    "contactDetails": {
+      "mobile": 9999999999,
+      "email": "hr@loadshare.net"
+    },
+    "branches": ["Bangalore", "Guwahati", "Delhi"],
+    "customers": [
+      {
+        "name": "Flipkart",
+        "active": true,
+        "services": ["LINE_HUAL", "LAST_MILE"]
+      },
+      {
+        "name": "Swiggy",
+        "active": true,
+        "services": ["HYPER_LOCAL"]
+      },
+      {
+        "name": "Paytm",
+        "active": true,
+        "services": ["FIRST_MILE", "LINE_HUAL"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Loadshare Networks",
+    "isActive": true,
+    "contactDetails": {
+      "mobile": 9999999999,
+      "email": "hr@loadshare.net"
+    },
+    "branches": ["Bangalore", "Guwahati", "Delhi"],
+    "customers": [
+      {
+        "name": "Flipkart",
+        "active": true,
+        "services": ["LINE_HUAL", "LAST_MILE"]
+      },
+      {
+        "name": "Swiggy",
+        "active": true,
+        "services": ["HYPER_LOCAL"]
+      },
+      {
+        "name": "Paytm",
+        "active": true,
+        "services": ["FIRST_MILE", "LINE_HUAL"]
+      }
+    ]
+  }
+]
