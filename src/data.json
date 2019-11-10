@@ -29,7 +29,7 @@
   {
     "id": 2,
     "name": "Loadshare Networks",
-    "isActive": true,
+    "isActive": false,
     "contactDetails": {
       "mobile": 9999999999,
       "email": "hr@loadshare.net"

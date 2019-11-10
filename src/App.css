@@ -25,3 +25,17 @@ input {
   padding: 5px;
   margin: 5px;
 }
+
+.inner__wrapper {
+  border: 1px solid teal;
+  margin: 5px;
+  padding: 5px;
+}
+
+.customer__wrapper {
+  border: 1px solid turquoise;
+  border-radius: 4px;
+  margin: 5px;
+  padding: 5px;
+  display: inline-block;
+}
